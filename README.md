@@ -1,6 +1,6 @@
 안녕하세요. 코드로 문제를 해결하고, 기술로 세상을 연결하고 싶은 프론트엔드 개발자 최홍식입니다.
 
-#### 📌 기술 스택
+### 📌 기술 스택
 <div>
   <img src="https://img.shields.io/badge/HTML5-F05138?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
@@ -12,3 +12,11 @@
   <img src="https://img.shields.io/badge/Apollo Graphql-311C87?style=flat-square&logo=apollographql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </div>
+
+### 📖 교육
+<div>
+   코드캠프xSeSAC | React와 React.Native를 활용한 초집중 프론트엔드 부트캠프 ```2024.08 ~ 2025.01```
+  <br/>
+   스파르타코딩클럽 | 내일배움캠프 iOS 1기 ```2023.07 ~ 2023.11```
+</div>
+

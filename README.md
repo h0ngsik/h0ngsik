@@ -17,6 +17,7 @@
 
 </div>
 <div>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apollo Graphql-311C87?style=flat-square&logo=apollographql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>  
 </div>

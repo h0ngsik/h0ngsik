@@ -24,7 +24,7 @@
 </div>
 
 ### 🎮 프로젝트
-✈️ [여행 플랫폼 - TripTrip](https://trip-trip-five.vercel.app/) | 여행 경험 공유, 숙박권 거래, 국내 축제 정보 제공 기능을 갖춘 여행 플랫폼입니다.
+✈️ [여행 플랫폼 - TripTrip](https://trip-trip-five.vercel.app/) | 여행 경험 공유, 숙박권 거래, 국내 축제 정보 제공 기능을 갖춘 여행 플랫폼입니다. ```(2024. 09 ~ 진행중)```
 
 
 ### 📖 교육

@@ -23,6 +23,10 @@
 </div>
 </div>
 
+### 🎮 프로젝트
+✈️ [여행 플랫폼 - TripTrip](https://trip-trip-five.vercel.app/) | 여행 경험 공유, 숙박권 거래, 국내 축제 정보 제공 기능을 갖춘 여행 플랫폼입니다.
+
+
 ### 📖 교육
    코드캠프xSeSAC | <a href="https://sesac.seoul.kr/course/active/detail.do?courseActiveSeq=1749&srchCategoryTypeCd=&courseMasterSeq=433&currentMenuId=900002015">React와 React.Native를 활용한 초집중 프론트엔드 부트캠프<a/> ```(2024.08. ~ 2025.01)```
    

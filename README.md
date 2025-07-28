@@ -23,16 +23,16 @@
 </div>
 </div>
 
-### 경력 
-- 💼 솔로트립 FE 인턴 ```(2025.01 ~ 2025.02)``` 
-- 💼 토스뱅크 IT Assistant ```(2025.04 ~ 2025.07)```
+### 💼 경력 
+- 솔로트립 FE 인턴 ```(2025.01 ~ 2025.02)``` 
+- 토스뱅크 IT Assistant ```(2025.04 ~ 2025.07)```
 
 ### 🎮 프로젝트
-✈️ [여행 플랫폼 - TripTrip](https://trip-trip-five.vercel.app/) | 여행 경험 공유, 숙박권 거래, 국내 축제 정보 제공 기능을 갖춘 여행 플랫폼입니다. ```(2024. 09 ~ 진행중)```
+- ✈️ [여행 플랫폼 - TripTrip](https://trip-trip-five.vercel.app/) | 여행 경험 공유, 숙박권 거래, 국내 축제 정보 제공 기능을 갖춘 여행 플랫폼입니다. ```(2024. 09 ~ 진행중)```
 
 
 ### 📖 교육
-   코드캠프xSeSAC | <a href="https://sesac.seoul.kr/course/active/detail.do?courseActiveSeq=1749&srchCategoryTypeCd=&courseMasterSeq=433&currentMenuId=900002015">React와 React.Native를 활용한 초집중 프론트엔드 부트캠프<a/> ```(2024.08. ~ 2025.01)```
+- 코드캠프xSeSAC | <a href="https://sesac.seoul.kr/course/active/detail.do?courseActiveSeq=1749&srchCategoryTypeCd=&courseMasterSeq=433&currentMenuId=900002015">React와 React.Native를 활용한 초집중 프론트엔드 부트캠프<a/> ```(2024.08. ~ 2025.01)```
    
-   스파르타코딩클럽 | <a href="https://nbcamp.spartacodingclub.kr/ios-master?utm_source=google&utm_medium=sa&utm_campaign=nbc&utm_content=app_ios&utm_term=ios%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84&gad_source=1&gclid=Cj0KCQiAq-u9BhCjARIsANLj-s38tAJ0KFDjDR9Cy7MSwoD3U954sP2dpEkLBJi787reAVO2Y82amqoaApUbEALw_wcB">내일배움캠프 iOS 1기<a/> ```2023.07 ~ 2023.11```
+- 스파르타코딩클럽 | <a href="https://nbcamp.spartacodingclub.kr/ios-master?utm_source=google&utm_medium=sa&utm_campaign=nbc&utm_content=app_ios&utm_term=ios%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84&gad_source=1&gclid=Cj0KCQiAq-u9BhCjARIsANLj-s38tAJ0KFDjDR9Cy7MSwoD3U954sP2dpEkLBJi787reAVO2Y82amqoaApUbEALw_wcB">내일배움캠프 iOS 1기<a/> ```2023.07 ~ 2023.11```
 
